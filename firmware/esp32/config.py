@@ -1,0 +1,11 @@
+WIFI_SSID = "configure-me"
+WIFI_PASSWORD = "configure-me"
+SERVER_URL = "http://192.168.1.10:8000"
+DEVICE_TOKEN = "configure-me"
+DEVICE_ID = "esp32-controller-01"
+PIR_PIN = 27
+TRIG_PIN = 5
+ECHO_PIN = 18
+BUZZER_PIN = 25
+DISTANCE_LIMIT_CM = 150
+MAX_REPELLENT_SECONDS = 120

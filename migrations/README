@@ -1,0 +1,1 @@
+Run `alembic upgrade head` after installing dependencies. The app also creates tables for local development.
